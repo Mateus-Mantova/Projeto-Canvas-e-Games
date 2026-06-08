@@ -1,4 +1,4 @@
-# Projeto-Canvas-e-Games
+# Projeto-Canvas-e-Games -- Space Escape
 ##
 Nomes dos Integrantes:
 ##
